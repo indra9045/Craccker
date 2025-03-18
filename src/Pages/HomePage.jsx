@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
-import "../style/landingPagestyle.css"
-import "../style/style.css"
+import "../../src/Style/landingPagestyle.css"
+import "../../src/Style/style.css"
 
 
 
