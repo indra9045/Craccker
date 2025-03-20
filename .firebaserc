@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "crack-7589a"
-  }
+    "default": "suchismita-indrajit-cracker",
+    "ourProject": "suchismita-indrajit-cracker"
+  },
+  "targets": {},
+  "etags": {}
 }
